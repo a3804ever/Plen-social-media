@@ -1,0 +1,6 @@
+{
+  "name": "PLEN",
+  "description": "A social network for aviation enthusiasts featuring high-resolution photo sharing, pilot discussion forums, and multi-device cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

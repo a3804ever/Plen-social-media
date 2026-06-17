@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": "usr_captain",
+      "username": "HeaviesCaptain",
+      "callsign": "Speedbird 74",
+      "licenseType": "Airline Transport (ATP)",
+      "simHours": 14200,
+      "homeAirport": "EGLL",
+      "verified": true,
+      "passwordHash": "5f4dcc3b5aa765d61d8327deb882cf99"
+    },
+    {
+      "id": "usr_spotter",
+      "username": "RampSpotter88",
+      "callsign": "GlassSpotter",
+      "licenseType": "Aviation Spotter",
+      "simHours": 350,
+      "homeAirport": "KJFK",
+      "verified": true,
+      "passwordHash": "5f4dcc3b5aa765d61d8327deb882cf99"
+    },
+    {
+      "id": "usr_student",
+      "username": "CessnaSimmer",
+      "callsign": "Skyhawk 172SP",
+      "licenseType": "Student",
+      "simHours": 120,
+      "homeAirport": "KLAX",
+      "verified": false,
+      "passwordHash": "5f4dcc3b5aa765d61d8327deb882cf99"
+    }
+  ],
+  "posts": [],
+  "threads": [],
+  "devices": [
+    {
+      "id": "dev_web",
+      "name": "Henry's Web Applet",
+      "platform": "Web WebApp",
+      "lastSync": "2026-06-16T23:39:34.303Z",
+      "status": "Online",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "dev_mac",
+      "name": "MacBook Pro Retina",
+      "platform": "Mac",
+      "lastSync": "2026-06-16T23:37:34.303Z",
+      "status": "Online",
+      "ipAddress": "192.168.1.14"
+    },
+    {
+      "id": "dev_iphone",
+      "name": "iPhone 15 Pro",
+      "platform": "iOS",
+      "lastSync": "2026-06-16T23:14:34.303Z",
+      "status": "Offline",
+      "ipAddress": "192.168.1.45"
+    }
+  ]
+}
